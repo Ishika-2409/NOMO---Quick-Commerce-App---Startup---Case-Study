@@ -216,20 +216,20 @@ Replicate the model in the next area
 ### 0–12 MONTHS
 **Prove the model**
 
-→ Product-market fit signals  
-→ Reliable fulfillment  
-→ Sustainable order economics
+- Product-market fit signals  
+- Reliable fulfillment  
+- Sustainable order economics
 
 ### 1–3 YEARS
 **Replicate the model**
 
-→ Expand across selected Tier-2 cities  
-→ Strengthen merchant network  
-→ Improve unit economics
+- Expand across selected Tier-2 cities  
+- Strengthen merchant network  
+- Improve unit economics
 
 ### 3–5 YEARS
 **Build the ecosystem**
 
-→ Tier-3 expansion  
-→ Merchant technology platform  
-→ Adjacent hyperlocal categories
+- Tier-3 expansion  
+- Merchant technology platform  
+- Adjacent hyperlocal categories
